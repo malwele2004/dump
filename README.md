@@ -1,2 +1,2 @@
 # dump
-An allocater for C, that is less error-prone and memory safe.
+A C allocater, that is less error-prone and is memory safe.
