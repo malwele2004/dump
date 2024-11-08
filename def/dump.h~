@@ -1,0 +1,10 @@
+#ifndef D_DUMP_H
+#define D_DUMP_H
+
+typedef struct
+{
+  void *origin;
+  long b_span;
+} Dump_t ;
+
+#endif
